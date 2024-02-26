@@ -1,0 +1,19 @@
+{
+  "name": "CodeBuddy",
+  "version": "1.0.0",
+  "description": "CodeBuddy is a platform that connects developers with mentors or experienced programmers who can provide guidance, code reviews, and advice on their projects. It aims to facilitate knowledge sharing and mentorship within the developer community.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "keywords": [],
+  "author": "Johnbuz",
+  "license": "MIT"
+}
